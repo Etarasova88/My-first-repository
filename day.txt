@@ -1,1 +1,2 @@
 print ("today is Sunday")
+print ("ok")
