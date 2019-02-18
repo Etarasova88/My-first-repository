@@ -2,3 +2,4 @@ print ("today is Sunday!")
 print ("ok!")
 print ("started a new day!")
 print ("now is Monday!")
+Сегодня я все могу
